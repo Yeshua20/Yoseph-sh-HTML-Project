@@ -20,5 +20,6 @@ there is a separate register.html file that is linked to contact button in the i
 since this is a basic project it is not responsive, so it suits best on PC.
 
          I used github as a host for the sites so I will provide the link to show what the site looks.
-  
+  https://yeshua20.github.io/Yoseph-sh-HTML-Project/ --> portfolio link.
+  https://yeshua20.github.io/Yoseph-sh-HTML-Project/register.html --> registration link.
          
